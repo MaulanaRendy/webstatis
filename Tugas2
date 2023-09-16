@@ -1,0 +1,66 @@
+<html>
+    <head>
+        <title>
+            Tugas 2 Webstatis - Rndy
+        </title>
+    </head>
+</html>
+<body style="background-color: silver;">
+    <table border="1">
+        <thead>
+            <tr>
+            <td>Persatuan Bulutangkis Gelanggang Remaja Cipayung</td>
+    </table>
+    <h4>VISI :</h4>
+    <p>Menjadi pusat keunggulan dalam olahraga badminton dengan menginspirasi dan mengembangkan atlet yang berprestasi, serta mempromosikan gaya hidup sehat melalui latihan dan kompetisi badminton.</p>
+    <h4>MISI :</h4> 
+    <p>1. Menyediakan fasilitas dan pelatih yang terbaik untuk membantu atlet mencapai potensi maksimal mereka.</p>
+    <p>2. Berkompetisi di tingkat nasional dan internasional untuk memperjuangkan keunggulan dalam badminton.</p>
+    <p>3. Membangun etika, sportivitas, dan semangat berkompetisi yang kuat di antara anggota tim dan atlet.</p>   
+    <h4>Pusat Informasi :</h4>
+    <!-- Navigation Bar -->
+    <div>
+        <ul>
+            <li>Alamat :
+                <p>Jl.Bantar Jati Rt.06/02, Kel.Setu, Kec.Cipayung, Jakarta Timur, DKI Jakarta</p>
+            </li>
+            <li>Tentang Kami :
+                <p>Sebuah pusat pelatihan bulu tangkis adalah fasilitas khusus yang didedikasikan untuk melatih  dan mengembangkan atlet bulu tangkis. Ini adalah tempat di mana pemain bulu tangkis, terutama yang muda dan berbakat, dapat mengasah keterampilan mereka dan mempersiapkan diri untuk berkompetisi di tingkat nasional dan internasional.
+            </li>
+            <li>Contact Me :
+                <p>+62 898-7906-056 - Rendy Maulana</p>
+            </li>
+            <li>Sosial Media Kami :
+                <a href="https://www.instagram.com/pb.grc/" target="blank">Instagram</a>
+            </li>
+            <br>
+            <li>Jadwal Latihan</li>
+        </ul>
+    </div>
+    <table border="1"
+        <thead>
+            <tr>
+                <td>Senin</td>
+                <td>Rabu</td>
+                <td>Sabtu</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>16:00 - 19:00</td>
+                <td>16:00 - 19:00</td>
+                <td>16:00 - 19:00</td>
+            </tr>
+        </tbody>
+</body>
+<html>
+  
+        
+
+        
+        
+        
+
+        
+
+        
