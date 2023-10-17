@@ -1,0 +1,33 @@
+
+body{
+    background-color:bisque ;
+    margin: 0 20%;
+    padding: 0;
+    background-image: url(https://pbdjarum.org/public/images/arts/pice917a9c.jpg);
+    background-repeat: no-repeat;
+    background-size:  cover;
+    background-position: right top;
+}
+
+.judul{
+    font-style: italic;
+    border: 1px solid #ffffff;
+    text-align: center;
+}
+
+.visidanMisi{
+    font-size: 25px;   
+    text-align: center;
+}
+
+table, th, tr, td{
+    border: 1px solid #ffffff;
+    border-collapse: collapse;
+    padding: 5px 10px;
+    text-align: center;
+    color: #ffffff;
+}
+
+tr:nth-child(even){
+    background-color: black;
+}
